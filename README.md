@@ -1,5 +1,7 @@
 # Alder Creek Farm
 
+**[Download Alder-Creek_Daylight.glb (145 MiB)](https://github.com/Crinklyink/models/releases/download/alder-creek-daylight-v1/Alder-Creek_Daylight.glb)** · [Release notes](https://github.com/Crinklyink/models/releases/tag/alder-creek-daylight-v1)
+
 A daylight study of a working farm, modeled in 3D. The portable binary glTF includes the farm, surrounding countryside, embedded material textures, named camera views, and a directional sun. For the farm-lane view, select the camera named **G • Summer at Alder Creek**.
 
 **Model:** `Alder-Creek_Daylight.glb` · 151,927,872 bytes  
