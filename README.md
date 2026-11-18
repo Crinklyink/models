@@ -1,3 +1,19 @@
+# 3D model gallery
+
+Explore two original 3D scenes: Alder Creek Farm and the animated Vesper GT II coupe.
+
+## Verified Vesper GT II downloads
+
+- **[Download Models-Gallery.html](https://github.com/Crinklyink/models/releases/download/vesper-gt-v2/Models-Gallery.html)**: the self-contained gallery containing both the farm and coupe.
+- **[Download Vesper-GT-II_Viewer.html](https://github.com/Crinklyink/models/releases/download/vesper-gt-v2/Vesper-GT-II_Viewer.html)**: the standalone animated coupe viewer.
+- **[Download Vesper-GT-II.glb](https://github.com/Crinklyink/models/releases/download/vesper-gt-v2/Vesper-GT-II.glb)**: the actual animated 3D model for compatible viewers and editors.
+
+Download the HTML file, then open it in a modern browser. The models and renderer are embedded for offline use. In the coupe viewer, select an animation clip and press **Play** to inspect the motion. The farm viewer's **Models** menu links to the coupe and the combined gallery download.
+
+All original Alder Creek downloads, instructions, and credits are retained below.
+
+---
+
 # Alder Creek Farm
 
 ## Explore the farm in your browser
